@@ -5,16 +5,16 @@ import json
 import time
 
 # ==========================================
-# 1. PAGE CONFIG & FAVICON
+# 1. PAGE CONFIG
 # ==========================================
 st.set_page_config(
     page_title="Flipkart Ops Hub",
-    page_icon="🛍️",
+    page_icon="📦",
     layout="wide"
 )
 
 # ==========================================
-# 2. macOS GLASSMORPHISM CSS INJECTION
+# 2. GLASSMORPHISM CSS INJECTION (Cleaned)
 # ==========================================
 glass_css = """
 <style>
@@ -69,28 +69,12 @@ button[kind="primary"]:hover, div.stButton > button:hover {
     transform: translateY(-1px) !important;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25) !important;
 }
-
-/* macOS Window Bar Simulation */
-.mac-window-bar {
-    display: flex;
-    gap: 8px;
-    padding-bottom: 12px;
-}
-.mac-dot {
-    width: 12px;
-    height: 12px;
-    border-radius: 50%;
-    display: inline-block;
-}
-.dot-red { background: #ff5f56; }
-.dot-yellow { background: #ffbd2e; }
-.dot-green { background: #27c93f; }
 </style>
 """
 st.markdown(glass_css, unsafe_allow_html=True)
 
 # ==========================================
-# 3. LOGIN AUTHENTICATION
+# 3. LOGIN AUTHENTICATION (Cleaned)
 # ==========================================
 def check_password():
     def password_entered():
@@ -101,13 +85,6 @@ def check_password():
             st.session_state["password_correct"] = False
 
     if "password_correct" not in st.session_state:
-        st.markdown("""
-        <div class="mac-window-bar">
-            <span class="mac-dot dot-red"></span>
-            <span class="mac-dot dot-yellow"></span>
-            <span class="mac-dot dot-green"></span>
-        </div>
-        """, unsafe_allow_html=True)
         st.markdown("### 🔒 Ops Hub Authentication")
         st.text_input("Enter Keycard Passcode (hint: admin123)", type="password", on_change=password_entered, key="password")
         return False
@@ -122,26 +99,13 @@ if not check_password():
     st.stop()
 
 # ==========================================
-# 4. macOS HEADER & SAFE LOGO
+# 4. HEADER (Cleaned)
 # ==========================================
-st.markdown("""
-<div class="mac-window-bar">
-    <span class="mac-dot dot-red"></span>
-    <span class="mac-dot dot-yellow"></span>
-    <span class="mac-dot dot-green"></span>
-</div>
-""", unsafe_allow_html=True)
-
-st.markdown("""
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/7/7a/Flipkart_logo.svg" alt="Flipkart Logo" height="35" style="filter: drop-shadow(0px 4px 6px rgba(0,0,0,0.3));">
-    <h1 style="margin: 0; padding: 0; font-size: 2.2rem; color: white;">Operations & Triage Hub</h1>
-</div>
-""", unsafe_allow_html=True)
-st.caption("macOS Frosted Glass Terminal • Production Intelligence Engine")
+st.title("📦 Flipkart Operations & Triage Hub")
+st.caption("Secure Internal Diagnostic Engine • Authorized Personnel Only")
 
 # ==========================================
-# 5. DATA ENGINE (The part that was missing!)
+# 5. DATA ENGINE
 # ==========================================
 @st.cache_data
 def load_and_process():
