@@ -1,0 +1,1201 @@
+customer_id,customer_name,customer_segment,account_age_days,total_orders,preferred_payment_method
+CUST000001,Rohan Reddy,Regular,1489,51,Bank Transfer
+CUST000002,Anika Nair,Plus,1136,16,Bank Transfer
+CUST000003,Krishna Verma,Regular,1394,83,Bank Transfer
+CUST000004,Ayaan Das,Premium,462,23,Card
+CUST000005,Diya Joshi,Regular,476,52,Card
+CUST000006,Krishna Menon,Business,373,84,Cash on Delivery
+CUST000007,Aarav Agarwal,Plus,855,19,Wallet
+CUST000008,Sai Patel,Plus,387,4,Cash on Delivery
+CUST000009,Myra Menon,Premium,304,80,Wallet
+CUST000010,Kiara Mehta,Plus,1514,80,UPI
+CUST000011,Karthik Das,Plus,1457,76,Cash on Delivery
+CUST000012,Sara Khan,Regular,1035,52,Card
+CUST000013,Arvind Das,Plus,1379,56,UPI
+CUST000014,Rohan Kulkarni,Regular,1055,75,Bank Transfer
+CUST000015,Neha Jain,Regular,714,22,UPI
+CUST000016,Karthik Nair,Regular,1515,7,Card
+CUST000017,Arvind Das,Plus,1119,80,Wallet
+CUST000018,Diya Singh,Regular,978,2,Cash on Delivery
+CUST000019,Reyansh Kulkarni,Plus,288,77,Bank Transfer
+CUST000020,Meera Nair,Regular,865,87,Bank Transfer
+CUST000021,Neha Ghosh,Plus,1161,5,Cash on Delivery
+CUST000022,Vivaan Ghosh,Plus,1591,7,Wallet
+CUST000023,Sai Nair,Business,124,18,Wallet
+CUST000024,Vihaan Chopra,Regular,181,89,UPI
+CUST000025,Vivaan Bose,Premium,918,61,Bank Transfer
+CUST000026,Anika Patel,Regular,1287,75,Bank Transfer
+CUST000027,Arjun Patel,Premium,890,10,Bank Transfer
+CUST000028,Krishna Menon,Premium,578,13,Cash on Delivery
+CUST000029,Aadhya Chopra,Regular,50,35,UPI
+CUST000030,Leela Sharma,Plus,1188,38,UPI
+CUST000031,Rahul Iyer,Regular,494,39,UPI
+CUST000032,Nisha Iyer,Plus,1243,46,UPI
+CUST000033,Vivaan Reddy,Regular,216,3,Bank Transfer
+CUST000034,Nisha Bose,Plus,339,21,Card
+CUST000035,Neha Sharma,Premium,1485,41,UPI
+CUST000036,Aadhya Menon,Regular,1536,58,Wallet
+CUST000037,Kiara Jain,Regular,1170,35,Wallet
+CUST000038,Rahul Gupta,Regular,940,75,Bank Transfer
+CUST000039,Vihaan Das,Premium,302,15,Cash on Delivery
+CUST000040,Vivaan Menon,Plus,983,56,Wallet
+CUST000041,Aditya Verma,Plus,949,54,UPI
+CUST000042,Ira Nair,Regular,1456,12,Wallet
+CUST000043,Sara Jain,Regular,346,18,UPI
+CUST000044,Pari Gupta,Business,393,46,Cash on Delivery
+CUST000045,Karthik Nair,Plus,1367,63,Bank Transfer
+CUST000046,Neha Ghosh,Premium,621,30,UPI
+CUST000047,Ayaan Verma,Plus,74,29,Card
+CUST000048,Aditya Gupta,Regular,1006,81,Cash on Delivery
+CUST000049,Diya Kulkarni,Premium,1022,27,Bank Transfer
+CUST000050,Pari Chopra,Regular,105,78,Cash on Delivery
+CUST000051,Karthik Reddy,Regular,126,75,UPI
+CUST000052,Karthik Sharma,Plus,278,29,Bank Transfer
+CUST000053,Vihaan Das,Regular,257,40,Card
+CUST000054,Leela Agarwal,Regular,438,42,Bank Transfer
+CUST000055,Kiara Agarwal,Regular,359,25,Card
+CUST000056,Aditya Singh,Plus,1281,27,UPI
+CUST000057,Neha Nair,Regular,953,3,Wallet
+CUST000058,Sai Ghosh,Regular,1565,77,Cash on Delivery
+CUST000059,Sanjay Bose,Premium,949,45,UPI
+CUST000060,Vivaan Joshi,Regular,826,20,Bank Transfer
+CUST000061,Reyansh Chopra,Regular,563,28,Wallet
+CUST000062,Arvind Menon,Business,577,43,Bank Transfer
+CUST000063,Ayaan Kulkarni,Regular,405,7,Card
+CUST000064,Meera Khan,Plus,290,22,UPI
+CUST000065,Diya Patel,Plus,1399,67,Bank Transfer
+CUST000066,Myra Singh,Regular,125,34,UPI
+CUST000067,Pooja Iyer,Regular,773,6,UPI
+CUST000068,Rohan Jain,Premium,982,74,Card
+CUST000069,Sara Menon,Plus,789,42,Card
+CUST000070,Meera Reddy,Regular,741,64,Wallet
+CUST000071,Avni Mehta,Plus,1067,13,Cash on Delivery
+CUST000072,Aditya Mehta,Regular,210,3,Wallet
+CUST000073,Sanjay Ghosh,Plus,493,43,Card
+CUST000074,Kiara Chopra,Regular,1020,45,UPI
+CUST000075,Anika Das,Plus,1297,21,UPI
+CUST000076,Aadhya Joshi,Regular,126,1,Wallet
+CUST000077,Sara Nair,Business,609,81,UPI
+CUST000078,Sara Chopra,Regular,1558,81,Bank Transfer
+CUST000079,Ira Das,Plus,418,12,UPI
+CUST000080,Kiara Patel,Regular,1129,11,Bank Transfer
+CUST000081,Aadhya Kulkarni,Regular,126,51,Wallet
+CUST000082,Sai Jain,Regular,933,32,Bank Transfer
+CUST000083,Neha Iyer,Plus,966,48,Cash on Delivery
+CUST000084,Ishaan Joshi,Business,64,58,UPI
+CUST000085,Ishaan Patel,Premium,962,63,Cash on Delivery
+CUST000086,Nisha Gupta,Plus,1013,19,Cash on Delivery
+CUST000087,Aadhya Sharma,Regular,96,52,Card
+CUST000088,Ayaan Gupta,Premium,1589,31,Cash on Delivery
+CUST000089,Avni Das,Premium,652,68,Wallet
+CUST000090,Aadhya Jain,Premium,1501,87,Bank Transfer
+CUST000091,Pari Gupta,Regular,110,66,Cash on Delivery
+CUST000092,Anika Joshi,Plus,838,49,UPI
+CUST000093,Aditya Mehta,Regular,1417,49,UPI
+CUST000094,Meera Reddy,Regular,1305,62,Cash on Delivery
+CUST000095,Diya Khan,Premium,762,53,Cash on Delivery
+CUST000096,Ayaan Menon,Regular,45,38,Bank Transfer
+CUST000097,Rahul Khan,Business,1598,85,UPI
+CUST000098,Krishna Rao,Plus,327,90,Bank Transfer
+CUST000099,Diya Das,Regular,68,10,Cash on Delivery
+CUST000100,Pooja Menon,Regular,474,85,Cash on Delivery
+CUST000101,Vivaan Iyer,Regular,1125,89,UPI
+CUST000102,Pooja Khan,Premium,97,45,Bank Transfer
+CUST000103,Sanjay Singh,Plus,1573,32,Wallet
+CUST000104,Kiara Das,Plus,690,83,Cash on Delivery
+CUST000105,Krishna Nair,Regular,366,86,Card
+CUST000106,Anika Mehta,Regular,523,31,Bank Transfer
+CUST000107,Ira Rao,Regular,335,52,Bank Transfer
+CUST000108,Meera Mehta,Regular,1315,30,Wallet
+CUST000109,Ishaan Ghosh,Plus,658,72,Card
+CUST000110,Pari Singh,Plus,107,49,Card
+CUST000111,Avni Ghosh,Plus,625,67,Cash on Delivery
+CUST000112,Karthik Kulkarni,Regular,873,19,UPI
+CUST000113,Kiara Chopra,Business,760,48,Card
+CUST000114,Sai Gupta,Regular,1496,16,Cash on Delivery
+CUST000115,Reyansh Reddy,Regular,171,72,Wallet
+CUST000116,Ira Rao,Plus,1496,82,Cash on Delivery
+CUST000117,Aadhya Nair,Plus,731,64,UPI
+CUST000118,Rohan Jain,Plus,642,71,Bank Transfer
+CUST000119,Pari Gupta,Plus,187,4,UPI
+CUST000120,Aditya Singh,Plus,77,74,Cash on Delivery
+CUST000121,Leela Bose,Regular,1578,14,Cash on Delivery
+CUST000122,Aditya Khan,Regular,940,71,UPI
+CUST000123,Aarav Agarwal,Premium,740,3,Card
+CUST000124,Meera Verma,Regular,1489,54,Wallet
+CUST000125,Rahul Bose,Regular,737,34,Cash on Delivery
+CUST000126,Aditya Verma,Plus,1536,59,Bank Transfer
+CUST000127,Karthik Mehta,Regular,844,5,Card
+CUST000128,Aarav Nair,Plus,617,24,Cash on Delivery
+CUST000129,Sai Joshi,Plus,375,86,UPI
+CUST000130,Ayaan Iyer,Plus,334,81,Card
+CUST000131,Ananya Nair,Regular,1251,75,Cash on Delivery
+CUST000132,Vihaan Menon,Regular,1238,43,Wallet
+CUST000133,Aadhya Verma,Plus,1432,65,Card
+CUST000134,Ayaan Singh,Plus,1559,39,Card
+CUST000135,Pooja Bose,Plus,1367,60,UPI
+CUST000136,Vihaan Sharma,Premium,114,43,Bank Transfer
+CUST000137,Krishna Bose,Plus,1582,83,Cash on Delivery
+CUST000138,Sara Reddy,Regular,980,7,Cash on Delivery
+CUST000139,Pari Sharma,Plus,797,72,UPI
+CUST000140,Anika Ghosh,Premium,1454,25,Card
+CUST000141,Diya Mehta,Plus,1513,28,UPI
+CUST000142,Myra Verma,Regular,1045,21,UPI
+CUST000143,Myra Joshi,Plus,1040,76,Bank Transfer
+CUST000144,Neha Ghosh,Plus,180,33,Card
+CUST000145,Leela Nair,Regular,1151,27,Wallet
+CUST000146,Aarav Singh,Regular,435,7,Cash on Delivery
+CUST000147,Rahul Kulkarni,Plus,125,34,Bank Transfer
+CUST000148,Arvind Khan,Plus,208,11,Cash on Delivery
+CUST000149,Ira Sharma,Regular,1211,63,Wallet
+CUST000150,Aarav Menon,Regular,448,69,Bank Transfer
+CUST000151,Sanjay Gupta,Regular,1268,14,Card
+CUST000152,Karthik Rao,Plus,1314,32,Cash on Delivery
+CUST000153,Pari Singh,Regular,1286,2,UPI
+CUST000154,Rohan Mehta,Regular,1251,5,Card
+CUST000155,Pooja Sharma,Regular,413,38,Card
+CUST000156,Arvind Chopra,Regular,1042,52,Cash on Delivery
+CUST000157,Anika Iyer,Plus,553,42,Wallet
+CUST000158,Ira Nair,Premium,65,23,Bank Transfer
+CUST000159,Sai Iyer,Plus,124,31,Cash on Delivery
+CUST000160,Arvind Menon,Regular,1101,62,Cash on Delivery
+CUST000161,Ishaan Ghosh,Plus,305,84,Cash on Delivery
+CUST000162,Vihaan Sharma,Regular,469,39,Cash on Delivery
+CUST000163,Aditya Khan,Regular,829,25,Wallet
+CUST000164,Sai Agarwal,Regular,434,42,Card
+CUST000165,Ananya Joshi,Plus,974,16,Wallet
+CUST000166,Nisha Joshi,Regular,385,25,Bank Transfer
+CUST000167,Sanjay Patel,Regular,1568,54,Card
+CUST000168,Pari Verma,Regular,1151,70,Wallet
+CUST000169,Anika Agarwal,Plus,1513,1,Card
+CUST000170,Anika Agarwal,Plus,1125,85,Cash on Delivery
+CUST000171,Arjun Sharma,Plus,955,86,UPI
+CUST000172,Myra Jain,Business,945,41,Card
+CUST000173,Pari Das,Regular,576,19,Card
+CUST000174,Karthik Kulkarni,Plus,228,31,Cash on Delivery
+CUST000175,Kiara Gupta,Plus,280,18,Bank Transfer
+CUST000176,Pooja Das,Plus,274,35,Wallet
+CUST000177,Leela Bose,Regular,1123,90,Wallet
+CUST000178,Meera Bose,Regular,1410,29,Cash on Delivery
+CUST000179,Anika Khan,Plus,228,69,Bank Transfer
+CUST000180,Aadhya Rao,Regular,1075,81,Cash on Delivery
+CUST000181,Aarav Reddy,Plus,54,33,UPI
+CUST000182,Aarav Khan,Plus,440,81,Wallet
+CUST000183,Meera Chopra,Regular,422,81,UPI
+CUST000184,Ayaan Das,Regular,424,14,Cash on Delivery
+CUST000185,Karthik Patel,Regular,668,22,Wallet
+CUST000186,Sai Verma,Regular,1322,12,Bank Transfer
+CUST000187,Ira Joshi,Plus,157,38,Wallet
+CUST000188,Kiara Nair,Plus,508,7,Wallet
+CUST000189,Kiara Rao,Regular,1016,77,UPI
+CUST000190,Ira Verma,Plus,331,21,Wallet
+CUST000191,Rohan Das,Regular,347,12,Wallet
+CUST000192,Rohan Rao,Regular,864,42,Card
+CUST000193,Anika Agarwal,Plus,509,53,Wallet
+CUST000194,Aditya Kulkarni,Plus,1447,55,Bank Transfer
+CUST000195,Diya Kulkarni,Regular,1535,22,UPI
+CUST000196,Arvind Verma,Regular,135,14,Wallet
+CUST000197,Neha Patel,Regular,416,9,Card
+CUST000198,Krishna Patel,Plus,153,38,Card
+CUST000199,Vihaan Rao,Plus,64,85,Wallet
+CUST000200,Aarav Kulkarni,Plus,666,33,Bank Transfer
+CUST000201,Avni Joshi,Regular,319,60,UPI
+CUST000202,Sara Khan,Regular,110,81,Card
+CUST000203,Aadhya Kulkarni,Regular,979,2,Card
+CUST000204,Myra Das,Regular,336,57,Card
+CUST000205,Rohan Menon,Plus,640,17,Wallet
+CUST000206,Aditya Gupta,Regular,1203,5,Cash on Delivery
+CUST000207,Meera Nair,Plus,928,52,Card
+CUST000208,Ayaan Verma,Regular,433,33,Bank Transfer
+CUST000209,Vihaan Singh,Premium,1230,62,UPI
+CUST000210,Arvind Das,Plus,230,73,Cash on Delivery
+CUST000211,Krishna Chopra,Plus,1565,89,UPI
+CUST000212,Krishna Iyer,Regular,539,4,UPI
+CUST000213,Neha Singh,Regular,507,51,UPI
+CUST000214,Kiara Jain,Regular,1442,77,Wallet
+CUST000215,Rohan Kulkarni,Regular,454,39,UPI
+CUST000216,Ira Jain,Plus,631,19,Cash on Delivery
+CUST000217,Ira Singh,Plus,559,40,Bank Transfer
+CUST000218,Vihaan Ghosh,Regular,291,45,Wallet
+CUST000219,Vivaan Khan,Regular,1341,29,UPI
+CUST000220,Pari Reddy,Regular,917,34,Wallet
+CUST000221,Vivaan Verma,Premium,597,50,UPI
+CUST000222,Karthik Jain,Plus,145,50,Wallet
+CUST000223,Pari Nair,Plus,553,7,Wallet
+CUST000224,Karthik Chopra,Business,1236,78,Cash on Delivery
+CUST000225,Meera Iyer,Premium,1544,12,Cash on Delivery
+CUST000226,Aadhya Ghosh,Regular,152,29,Card
+CUST000227,Krishna Singh,Plus,555,45,Wallet
+CUST000228,Ira Joshi,Plus,964,47,UPI
+CUST000229,Ananya Agarwal,Plus,1576,23,Card
+CUST000230,Meera Patel,Plus,1370,39,Cash on Delivery
+CUST000231,Krishna Verma,Regular,1440,20,Card
+CUST000232,Diya Verma,Regular,137,11,Wallet
+CUST000233,Avni Menon,Premium,351,65,Bank Transfer
+CUST000234,Anika Agarwal,Business,1208,6,Wallet
+CUST000235,Avni Bose,Regular,945,22,Wallet
+CUST000236,Pooja Kulkarni,Regular,1436,36,UPI
+CUST000237,Vivaan Singh,Regular,435,43,Card
+CUST000238,Arvind Agarwal,Plus,439,38,UPI
+CUST000239,Krishna Patel,Premium,130,53,Wallet
+CUST000240,Ishaan Sharma,Premium,385,60,UPI
+CUST000241,Leela Kulkarni,Regular,1317,7,Cash on Delivery
+CUST000242,Sai Das,Regular,469,71,Bank Transfer
+CUST000243,Sara Sharma,Plus,1579,8,Cash on Delivery
+CUST000244,Meera Patel,Premium,160,15,Wallet
+CUST000245,Avni Singh,Regular,936,14,UPI
+CUST000246,Sai Gupta,Regular,604,25,Cash on Delivery
+CUST000247,Aditya Ghosh,Business,1460,82,UPI
+CUST000248,Ishaan Menon,Regular,1298,33,Card
+CUST000249,Krishna Verma,Regular,238,39,Bank Transfer
+CUST000250,Vihaan Bose,Regular,341,39,Cash on Delivery
+CUST000251,Meera Patel,Plus,1348,87,Bank Transfer
+CUST000252,Aditya Nair,Regular,1268,35,Bank Transfer
+CUST000253,Sai Joshi,Plus,1532,54,UPI
+CUST000254,Sai Khan,Regular,1350,30,Wallet
+CUST000255,Ayaan Singh,Regular,811,16,Wallet
+CUST000256,Sanjay Rao,Premium,1514,83,Bank Transfer
+CUST000257,Kiara Menon,Plus,93,77,Cash on Delivery
+CUST000258,Meera Iyer,Premium,615,47,Wallet
+CUST000259,Vihaan Gupta,Regular,942,81,UPI
+CUST000260,Sanjay Gupta,Regular,662,29,Cash on Delivery
+CUST000261,Pari Kulkarni,Regular,1481,86,Card
+CUST000262,Nisha Gupta,Premium,506,68,UPI
+CUST000263,Avni Bose,Regular,776,2,Bank Transfer
+CUST000264,Kiara Agarwal,Premium,771,14,UPI
+CUST000265,Karthik Patel,Plus,1385,83,Card
+CUST000266,Neha Mehta,Plus,915,70,Wallet
+CUST000267,Vihaan Kulkarni,Business,980,52,Bank Transfer
+CUST000268,Pooja Ghosh,Regular,487,78,Bank Transfer
+CUST000269,Ishaan Jain,Regular,690,2,Card
+CUST000270,Karthik Das,Plus,459,51,Card
+CUST000271,Anika Patel,Regular,851,25,UPI
+CUST000272,Anika Bose,Regular,181,17,Card
+CUST000273,Ishaan Khan,Regular,792,26,UPI
+CUST000274,Meera Mehta,Regular,262,2,Bank Transfer
+CUST000275,Ishaan Bose,Plus,113,52,Cash on Delivery
+CUST000276,Nisha Reddy,Regular,525,73,UPI
+CUST000277,Neha Ghosh,Plus,1340,86,Bank Transfer
+CUST000278,Arvind Nair,Plus,931,86,Wallet
+CUST000279,Diya Rao,Business,110,68,Bank Transfer
+CUST000280,Karthik Singh,Premium,1357,26,UPI
+CUST000281,Sara Ghosh,Premium,1208,84,Card
+CUST000282,Ananya Chopra,Premium,57,38,UPI
+CUST000283,Aditya Verma,Regular,765,32,Cash on Delivery
+CUST000284,Vihaan Mehta,Plus,926,71,Wallet
+CUST000285,Meera Joshi,Plus,571,58,UPI
+CUST000286,Vihaan Patel,Regular,1442,6,Card
+CUST000287,Sara Gupta,Plus,835,78,Card
+CUST000288,Aarav Reddy,Regular,862,49,Wallet
+CUST000289,Vivaan Sharma,Plus,770,41,UPI
+CUST000290,Diya Menon,Plus,1471,87,Cash on Delivery
+CUST000291,Anika Nair,Plus,1260,7,Wallet
+CUST000292,Pari Patel,Regular,414,35,Wallet
+CUST000293,Sai Chopra,Regular,1090,33,UPI
+CUST000294,Karthik Singh,Regular,1408,42,Bank Transfer
+CUST000295,Nisha Menon,Regular,667,36,Card
+CUST000296,Rohan Reddy,Plus,1575,36,Card
+CUST000297,Vihaan Das,Plus,646,75,Cash on Delivery
+CUST000298,Neha Iyer,Regular,1573,83,Card
+CUST000299,Kiara Gupta,Regular,878,79,Card
+CUST000300,Aditya Patel,Regular,945,25,Bank Transfer
+CUST000301,Ananya Mehta,Regular,384,37,UPI
+CUST000302,Sanjay Khan,Regular,975,8,Card
+CUST000303,Arjun Khan,Plus,641,25,UPI
+CUST000304,Sanjay Singh,Plus,150,13,Bank Transfer
+CUST000305,Anika Reddy,Plus,1505,11,Wallet
+CUST000306,Ananya Iyer,Plus,701,6,Cash on Delivery
+CUST000307,Ishaan Agarwal,Regular,1053,7,Wallet
+CUST000308,Anika Nair,Plus,1203,18,Wallet
+CUST000309,Sanjay Nair,Plus,1433,3,UPI
+CUST000310,Diya Rao,Regular,114,24,Card
+CUST000311,Sara Gupta,Regular,1132,70,Cash on Delivery
+CUST000312,Arjun Das,Plus,664,53,Bank Transfer
+CUST000313,Ira Agarwal,Plus,367,40,Bank Transfer
+CUST000314,Arvind Menon,Regular,1220,88,Cash on Delivery
+CUST000315,Vivaan Sharma,Regular,1055,69,Wallet
+CUST000316,Pari Kulkarni,Plus,1573,86,Bank Transfer
+CUST000317,Ayaan Iyer,Regular,322,80,UPI
+CUST000318,Neha Bose,Plus,1185,89,Card
+CUST000319,Reyansh Gupta,Premium,102,15,UPI
+CUST000320,Ira Kulkarni,Plus,638,28,UPI
+CUST000321,Kiara Kulkarni,Regular,1012,42,Bank Transfer
+CUST000322,Reyansh Bose,Plus,191,87,Cash on Delivery
+CUST000323,Nisha Patel,Regular,586,7,Wallet
+CUST000324,Rahul Rao,Plus,639,46,Cash on Delivery
+CUST000325,Pooja Nair,Regular,1479,89,Cash on Delivery
+CUST000326,Krishna Sharma,Premium,1412,57,Bank Transfer
+CUST000327,Meera Rao,Regular,240,9,Bank Transfer
+CUST000328,Sanjay Singh,Regular,1352,12,UPI
+CUST000329,Vivaan Kulkarni,Plus,163,51,Bank Transfer
+CUST000330,Sara Menon,Plus,1167,49,Wallet
+CUST000331,Ishaan Verma,Regular,740,41,UPI
+CUST000332,Karthik Gupta,Regular,112,53,UPI
+CUST000333,Diya Kulkarni,Business,1275,13,Card
+CUST000334,Kiara Joshi,Plus,1045,75,UPI
+CUST000335,Avni Nair,Regular,271,65,Card
+CUST000336,Meera Sharma,Plus,923,41,Cash on Delivery
+CUST000337,Aarav Gupta,Regular,1257,62,Bank Transfer
+CUST000338,Ayaan Iyer,Regular,1483,70,Wallet
+CUST000339,Sara Patel,Plus,1334,54,Card
+CUST000340,Arvind Mehta,Regular,348,35,Bank Transfer
+CUST000341,Reyansh Menon,Plus,277,12,Cash on Delivery
+CUST000342,Sanjay Das,Plus,756,28,Cash on Delivery
+CUST000343,Arjun Joshi,Business,327,59,Wallet
+CUST000344,Karthik Patel,Regular,1309,5,UPI
+CUST000345,Karthik Chopra,Plus,1403,60,Card
+CUST000346,Ananya Ghosh,Plus,1191,47,Bank Transfer
+CUST000347,Rohan Chopra,Regular,732,21,Card
+CUST000348,Krishna Gupta,Plus,346,30,Card
+CUST000349,Kiara Khan,Plus,290,47,Bank Transfer
+CUST000350,Aadhya Gupta,Regular,1366,81,Bank Transfer
+CUST000351,Rahul Patel,Business,143,17,Wallet
+CUST000352,Leela Jain,Regular,754,36,Cash on Delivery
+CUST000353,Rohan Agarwal,Regular,708,31,Cash on Delivery
+CUST000354,Neha Joshi,Regular,1219,41,Wallet
+CUST000355,Krishna Agarwal,Premium,220,57,Bank Transfer
+CUST000356,Reyansh Jain,Regular,1118,75,Cash on Delivery
+CUST000357,Krishna Jain,Regular,888,75,UPI
+CUST000358,Sanjay Sharma,Regular,842,32,Card
+CUST000359,Krishna Khan,Regular,710,55,Bank Transfer
+CUST000360,Karthik Ghosh,Regular,1528,58,Bank Transfer
+CUST000361,Aadhya Nair,Premium,1171,89,Cash on Delivery
+CUST000362,Reyansh Joshi,Regular,1179,86,Card
+CUST000363,Sai Kulkarni,Regular,1387,7,Card
+CUST000364,Reyansh Agarwal,Premium,323,4,Wallet
+CUST000365,Aadhya Joshi,Plus,248,61,Cash on Delivery
+CUST000366,Ira Menon,Regular,1195,85,Wallet
+CUST000367,Anika Gupta,Premium,1000,81,Cash on Delivery
+CUST000368,Ira Joshi,Regular,544,73,Card
+CUST000369,Sai Bose,Regular,1358,73,Bank Transfer
+CUST000370,Rohan Singh,Regular,498,26,Bank Transfer
+CUST000371,Sara Chopra,Premium,942,46,Card
+CUST000372,Meera Chopra,Regular,635,66,Wallet
+CUST000373,Vivaan Khan,Regular,1005,75,UPI
+CUST000374,Vihaan Bose,Regular,1448,31,Wallet
+CUST000375,Krishna Reddy,Plus,322,67,UPI
+CUST000376,Rohan Jain,Plus,517,30,Wallet
+CUST000377,Karthik Chopra,Plus,1099,18,Card
+CUST000378,Arvind Jain,Regular,1117,20,UPI
+CUST000379,Ira Sharma,Plus,1034,71,Cash on Delivery
+CUST000380,Ayaan Mehta,Plus,1561,40,Wallet
+CUST000381,Sai Singh,Regular,324,79,Card
+CUST000382,Leela Bose,Regular,811,80,Card
+CUST000383,Rahul Ghosh,Plus,1383,80,Bank Transfer
+CUST000384,Neha Singh,Plus,583,83,Wallet
+CUST000385,Ananya Das,Premium,1457,16,Wallet
+CUST000386,Arjun Mehta,Regular,1456,30,UPI
+CUST000387,Ayaan Nair,Regular,564,57,Bank Transfer
+CUST000388,Rohan Rao,Business,740,53,Card
+CUST000389,Vivaan Nair,Plus,120,2,Card
+CUST000390,Diya Agarwal,Plus,1124,7,Card
+CUST000391,Aarav Jain,Regular,1314,87,Wallet
+CUST000392,Ayaan Nair,Plus,428,33,Cash on Delivery
+CUST000393,Kiara Das,Premium,155,60,Wallet
+CUST000394,Krishna Gupta,Regular,1111,14,Card
+CUST000395,Ananya Verma,Regular,1332,89,Card
+CUST000396,Neha Verma,Regular,1030,51,Bank Transfer
+CUST000397,Ira Mehta,Regular,1146,26,Card
+CUST000398,Aarav Chopra,Premium,1157,80,Bank Transfer
+CUST000399,Nisha Singh,Business,1580,17,Cash on Delivery
+CUST000400,Avni Jain,Regular,464,25,Bank Transfer
+CUST000401,Vivaan Ghosh,Plus,967,13,Wallet
+CUST000402,Aadhya Rao,Plus,867,35,Cash on Delivery
+CUST000403,Reyansh Patel,Premium,555,37,UPI
+CUST000404,Ayaan Iyer,Premium,647,85,Bank Transfer
+CUST000405,Myra Ghosh,Regular,502,16,Card
+CUST000406,Karthik Patel,Regular,105,79,UPI
+CUST000407,Kiara Iyer,Premium,55,56,Bank Transfer
+CUST000408,Karthik Bose,Regular,933,33,Wallet
+CUST000409,Aarav Gupta,Plus,1388,16,UPI
+CUST000410,Meera Nair,Regular,1593,31,Bank Transfer
+CUST000411,Ira Rao,Regular,428,42,Cash on Delivery
+CUST000412,Leela Nair,Regular,89,87,UPI
+CUST000413,Rohan Agarwal,Premium,1574,26,Cash on Delivery
+CUST000414,Diya Chopra,Regular,469,72,Cash on Delivery
+CUST000415,Aarav Iyer,Plus,1266,8,Bank Transfer
+CUST000416,Ishaan Menon,Regular,1577,67,Wallet
+CUST000417,Avni Jain,Regular,1426,38,UPI
+CUST000418,Myra Singh,Business,567,83,Cash on Delivery
+CUST000419,Myra Verma,Plus,1531,43,UPI
+CUST000420,Sai Nair,Plus,1139,40,UPI
+CUST000421,Reyansh Gupta,Regular,419,39,Wallet
+CUST000422,Ananya Gupta,Premium,786,48,Card
+CUST000423,Rahul Joshi,Regular,731,45,UPI
+CUST000424,Aadhya Verma,Premium,1080,10,UPI
+CUST000425,Arvind Agarwal,Business,1199,52,Bank Transfer
+CUST000426,Karthik Agarwal,Regular,1027,31,UPI
+CUST000427,Sai Kulkarni,Regular,463,78,Bank Transfer
+CUST000428,Karthik Kulkarni,Premium,861,47,UPI
+CUST000429,Ananya Bose,Regular,1178,78,UPI
+CUST000430,Anika Sharma,Plus,582,50,Cash on Delivery
+CUST000431,Sai Khan,Regular,499,78,Cash on Delivery
+CUST000432,Karthik Kulkarni,Regular,518,56,Bank Transfer
+CUST000433,Ananya Das,Plus,396,5,Card
+CUST000434,Sara Iyer,Plus,543,23,UPI
+CUST000435,Sanjay Rao,Premium,1114,69,Bank Transfer
+CUST000436,Myra Singh,Regular,1348,32,Card
+CUST000437,Vihaan Singh,Plus,1252,46,Card
+CUST000438,Arvind Sharma,Regular,1505,7,Bank Transfer
+CUST000439,Vihaan Verma,Regular,1433,72,Card
+CUST000440,Krishna Kulkarni,Regular,215,76,Wallet
+CUST000441,Anika Agarwal,Plus,361,24,Bank Transfer
+CUST000442,Neha Kulkarni,Regular,651,75,Wallet
+CUST000443,Aadhya Chopra,Premium,611,60,UPI
+CUST000444,Vihaan Chopra,Regular,177,12,Wallet
+CUST000445,Leela Patel,Plus,109,59,UPI
+CUST000446,Avni Chopra,Business,611,75,Wallet
+CUST000447,Ira Khan,Regular,123,65,Bank Transfer
+CUST000448,Anika Chopra,Plus,288,62,Cash on Delivery
+CUST000449,Aadhya Menon,Plus,1565,8,Wallet
+CUST000450,Reyansh Verma,Plus,352,65,Card
+CUST000451,Leela Kulkarni,Regular,602,51,UPI
+CUST000452,Neha Chopra,Plus,575,75,Wallet
+CUST000453,Diya Verma,Plus,774,90,Card
+CUST000454,Karthik Gupta,Regular,529,13,Card
+CUST000455,Rohan Verma,Regular,690,33,Wallet
+CUST000456,Nisha Rao,Plus,566,65,Card
+CUST000457,Avni Khan,Regular,1034,89,Wallet
+CUST000458,Ishaan Iyer,Premium,513,33,Bank Transfer
+CUST000459,Kiara Verma,Business,284,62,Bank Transfer
+CUST000460,Sanjay Agarwal,Regular,1039,85,Bank Transfer
+CUST000461,Kiara Iyer,Regular,1527,83,Cash on Delivery
+CUST000462,Ira Kulkarni,Plus,1383,4,Bank Transfer
+CUST000463,Kiara Agarwal,Regular,290,47,Card
+CUST000464,Meera Agarwal,Regular,259,42,Wallet
+CUST000465,Arvind Ghosh,Regular,863,64,Cash on Delivery
+CUST000466,Sanjay Reddy,Premium,1390,40,Card
+CUST000467,Reyansh Iyer,Plus,547,55,Cash on Delivery
+CUST000468,Arjun Jain,Plus,132,46,Card
+CUST000469,Ira Rao,Regular,1371,2,Wallet
+CUST000470,Pooja Chopra,Regular,756,15,Cash on Delivery
+CUST000471,Meera Bose,Regular,123,28,Card
+CUST000472,Aarav Ghosh,Plus,344,57,Wallet
+CUST000473,Vihaan Das,Regular,318,37,UPI
+CUST000474,Arjun Joshi,Regular,500,10,Wallet
+CUST000475,Arvind Das,Premium,909,11,Wallet
+CUST000476,Krishna Mehta,Plus,650,89,Cash on Delivery
+CUST000477,Nisha Mehta,Regular,744,86,Wallet
+CUST000478,Pooja Singh,Regular,792,28,Bank Transfer
+CUST000479,Anika Joshi,Plus,181,63,Wallet
+CUST000480,Rahul Menon,Business,1373,58,Cash on Delivery
+CUST000481,Meera Nair,Regular,954,5,Cash on Delivery
+CUST000482,Rahul Menon,Premium,655,85,Cash on Delivery
+CUST000483,Ira Verma,Regular,1479,16,Card
+CUST000484,Diya Das,Business,228,60,Wallet
+CUST000485,Vihaan Rao,Regular,388,58,Bank Transfer
+CUST000486,Kiara Singh,Premium,521,59,Bank Transfer
+CUST000487,Rahul Nair,Regular,1376,42,Wallet
+CUST000488,Vihaan Bose,Regular,192,64,UPI
+CUST000489,Ira Chopra,Plus,1164,20,Card
+CUST000490,Anika Chopra,Premium,56,61,Cash on Delivery
+CUST000491,Sai Kulkarni,Regular,1005,88,Wallet
+CUST000492,Ananya Reddy,Plus,849,65,Wallet
+CUST000493,Sara Gupta,Premium,1277,51,Card
+CUST000494,Meera Verma,Regular,296,24,Wallet
+CUST000495,Meera Bose,Plus,130,59,UPI
+CUST000496,Pooja Jain,Regular,955,83,Wallet
+CUST000497,Avni Rao,Plus,590,22,Bank Transfer
+CUST000498,Sanjay Mehta,Regular,321,62,Cash on Delivery
+CUST000499,Vivaan Sharma,Premium,894,38,UPI
+CUST000500,Sara Kulkarni,Regular,590,21,Card
+CUST000501,Ira Verma,Regular,1229,58,Bank Transfer
+CUST000502,Reyansh Nair,Business,1590,42,UPI
+CUST000503,Aditya Nair,Regular,1565,81,UPI
+CUST000504,Nisha Menon,Regular,718,35,Bank Transfer
+CUST000505,Diya Iyer,Plus,521,7,Cash on Delivery
+CUST000506,Rohan Sharma,Business,1327,47,Card
+CUST000507,Anika Verma,Regular,1408,88,Wallet
+CUST000508,Rohan Gupta,Premium,549,12,Wallet
+CUST000509,Aarav Gupta,Plus,1373,49,Cash on Delivery
+CUST000510,Aadhya Chopra,Premium,1055,57,Wallet
+CUST000511,Pari Agarwal,Premium,1243,75,Wallet
+CUST000512,Reyansh Rao,Plus,1518,69,Card
+CUST000513,Diya Gupta,Premium,551,40,UPI
+CUST000514,Rohan Verma,Regular,795,78,UPI
+CUST000515,Aadhya Gupta,Plus,634,57,Bank Transfer
+CUST000516,Rahul Mehta,Regular,240,52,Wallet
+CUST000517,Aditya Khan,Regular,121,47,Bank Transfer
+CUST000518,Rahul Ghosh,Regular,775,32,Card
+CUST000519,Anika Verma,Regular,357,4,Card
+CUST000520,Arjun Jain,Regular,438,44,Bank Transfer
+CUST000521,Ayaan Das,Business,583,58,UPI
+CUST000522,Leela Kulkarni,Premium,160,63,Cash on Delivery
+CUST000523,Sara Khan,Regular,748,25,Bank Transfer
+CUST000524,Rohan Chopra,Regular,445,37,Bank Transfer
+CUST000525,Vivaan Ghosh,Plus,746,5,Bank Transfer
+CUST000526,Reyansh Patel,Regular,408,89,Cash on Delivery
+CUST000527,Aadhya Gupta,Regular,923,31,Cash on Delivery
+CUST000528,Pooja Singh,Premium,221,86,Card
+CUST000529,Avni Patel,Regular,1524,49,Cash on Delivery
+CUST000530,Karthik Gupta,Regular,332,40,Cash on Delivery
+CUST000531,Reyansh Singh,Regular,1429,87,Wallet
+CUST000532,Meera Das,Premium,458,70,UPI
+CUST000533,Myra Das,Regular,621,36,Card
+CUST000534,Kiara Singh,Regular,197,23,Cash on Delivery
+CUST000535,Krishna Rao,Premium,121,2,Wallet
+CUST000536,Pooja Khan,Premium,633,17,Bank Transfer
+CUST000537,Reyansh Menon,Regular,388,81,UPI
+CUST000538,Pari Singh,Plus,695,17,Cash on Delivery
+CUST000539,Diya Das,Premium,1047,49,Wallet
+CUST000540,Pari Joshi,Regular,533,43,Wallet
+CUST000541,Rahul Verma,Plus,99,31,Cash on Delivery
+CUST000542,Rahul Jain,Regular,556,51,Card
+CUST000543,Diya Chopra,Regular,575,37,Bank Transfer
+CUST000544,Krishna Patel,Regular,333,48,Wallet
+CUST000545,Kiara Menon,Regular,318,50,Cash on Delivery
+CUST000546,Rohan Menon,Regular,550,26,Card
+CUST000547,Reyansh Das,Business,1023,5,UPI
+CUST000548,Aadhya Nair,Plus,307,15,Wallet
+CUST000549,Anika Agarwal,Plus,1597,21,UPI
+CUST000550,Nisha Iyer,Regular,989,81,Wallet
+CUST000551,Aadhya Singh,Plus,760,71,UPI
+CUST000552,Leela Gupta,Plus,389,77,Card
+CUST000553,Leela Das,Regular,1076,82,Wallet
+CUST000554,Pooja Patel,Regular,418,19,Cash on Delivery
+CUST000555,Anika Verma,Plus,784,26,Bank Transfer
+CUST000556,Karthik Patel,Regular,782,29,Card
+CUST000557,Arjun Joshi,Regular,1165,44,Cash on Delivery
+CUST000558,Vivaan Chopra,Regular,912,50,Bank Transfer
+CUST000559,Meera Chopra,Plus,666,38,Bank Transfer
+CUST000560,Neha Jain,Regular,153,84,Bank Transfer
+CUST000561,Aditya Agarwal,Regular,248,32,UPI
+CUST000562,Meera Ghosh,Regular,1556,4,Wallet
+CUST000563,Arvind Singh,Premium,777,48,Wallet
+CUST000564,Ayaan Nair,Regular,166,30,UPI
+CUST000565,Vihaan Ghosh,Regular,883,78,Card
+CUST000566,Anika Reddy,Regular,845,48,UPI
+CUST000567,Pari Chopra,Regular,545,88,Bank Transfer
+CUST000568,Avni Ghosh,Premium,977,46,Wallet
+CUST000569,Anika Patel,Premium,752,79,UPI
+CUST000570,Vihaan Singh,Plus,1563,42,Bank Transfer
+CUST000571,Sanjay Das,Regular,137,40,Wallet
+CUST000572,Kiara Ghosh,Premium,1408,32,Cash on Delivery
+CUST000573,Leela Rao,Regular,146,6,Wallet
+CUST000574,Kiara Rao,Premium,97,89,Card
+CUST000575,Arjun Menon,Plus,411,34,Wallet
+CUST000576,Vihaan Patel,Business,56,66,UPI
+CUST000577,Aditya Jain,Regular,1380,78,Wallet
+CUST000578,Kiara Kulkarni,Business,338,33,Wallet
+CUST000579,Diya Jain,Business,595,52,Cash on Delivery
+CUST000580,Ira Ghosh,Regular,375,61,Card
+CUST000581,Karthik Gupta,Regular,1411,77,Cash on Delivery
+CUST000582,Arjun Reddy,Regular,578,32,Bank Transfer
+CUST000583,Aditya Iyer,Business,987,21,Bank Transfer
+CUST000584,Vihaan Das,Plus,257,38,UPI
+CUST000585,Ishaan Verma,Regular,1370,45,Wallet
+CUST000586,Leela Khan,Regular,1027,24,Cash on Delivery
+CUST000587,Rahul Nair,Regular,1249,28,Card
+CUST000588,Vivaan Khan,Plus,1518,64,Bank Transfer
+CUST000589,Sanjay Agarwal,Regular,166,83,Cash on Delivery
+CUST000590,Nisha Reddy,Plus,371,78,Card
+CUST000591,Kiara Bose,Regular,1348,58,Wallet
+CUST000592,Ananya Menon,Business,294,44,Card
+CUST000593,Rahul Kulkarni,Premium,735,40,Cash on Delivery
+CUST000594,Ira Bose,Regular,1003,58,Card
+CUST000595,Ishaan Verma,Plus,1440,57,Wallet
+CUST000596,Avni Chopra,Regular,1574,63,Wallet
+CUST000597,Karthik Singh,Regular,491,2,Cash on Delivery
+CUST000598,Ananya Gupta,Regular,1381,88,UPI
+CUST000599,Leela Reddy,Plus,1319,17,Card
+CUST000600,Reyansh Joshi,Regular,965,56,Cash on Delivery
+CUST000601,Neha Verma,Plus,1436,41,Card
+CUST000602,Sanjay Chopra,Regular,285,11,Bank Transfer
+CUST000603,Neha Chopra,Regular,1409,63,Bank Transfer
+CUST000604,Ishaan Joshi,Regular,1498,88,Card
+CUST000605,Neha Rao,Plus,943,41,Cash on Delivery
+CUST000606,Pari Nair,Regular,1256,64,Cash on Delivery
+CUST000607,Sanjay Khan,Regular,765,88,Bank Transfer
+CUST000608,Anika Nair,Premium,1079,17,Card
+CUST000609,Rahul Gupta,Regular,956,65,Cash on Delivery
+CUST000610,Ananya Kulkarni,Premium,421,90,Wallet
+CUST000611,Ayaan Nair,Premium,1572,24,UPI
+CUST000612,Ayaan Das,Regular,247,16,Card
+CUST000613,Neha Khan,Business,125,87,Bank Transfer
+CUST000614,Kiara Jain,Regular,1316,50,UPI
+CUST000615,Aditya Joshi,Plus,1497,78,Wallet
+CUST000616,Ishaan Verma,Plus,103,56,Wallet
+CUST000617,Aarav Gupta,Plus,1531,66,UPI
+CUST000618,Myra Iyer,Premium,252,85,Bank Transfer
+CUST000619,Sanjay Iyer,Premium,1239,44,UPI
+CUST000620,Diya Verma,Regular,1292,68,Bank Transfer
+CUST000621,Ayaan Menon,Regular,443,67,Bank Transfer
+CUST000622,Sai Sharma,Premium,616,88,Cash on Delivery
+CUST000623,Ananya Bose,Plus,478,61,Bank Transfer
+CUST000624,Pari Khan,Business,456,32,Wallet
+CUST000625,Leela Chopra,Plus,107,81,Bank Transfer
+CUST000626,Nisha Gupta,Business,656,25,Card
+CUST000627,Myra Kulkarni,Regular,1359,59,UPI
+CUST000628,Vihaan Iyer,Plus,1398,50,Card
+CUST000629,Diya Verma,Regular,641,81,Wallet
+CUST000630,Ayaan Iyer,Regular,229,88,UPI
+CUST000631,Aditya Das,Regular,75,54,Card
+CUST000632,Aditya Singh,Regular,143,62,Wallet
+CUST000633,Ayaan Verma,Premium,1500,13,Bank Transfer
+CUST000634,Karthik Chopra,Regular,168,20,Card
+CUST000635,Aadhya Chopra,Regular,449,47,Card
+CUST000636,Leela Kulkarni,Plus,1204,83,Bank Transfer
+CUST000637,Ira Rao,Plus,525,80,Card
+CUST000638,Nisha Khan,Premium,208,43,Bank Transfer
+CUST000639,Vivaan Kulkarni,Premium,429,86,Wallet
+CUST000640,Avni Gupta,Regular,1343,80,Bank Transfer
+CUST000641,Reyansh Bose,Premium,1053,34,UPI
+CUST000642,Vihaan Patel,Regular,1368,8,UPI
+CUST000643,Reyansh Chopra,Business,578,8,Wallet
+CUST000644,Pooja Bose,Regular,67,15,Bank Transfer
+CUST000645,Vihaan Verma,Regular,172,71,Wallet
+CUST000646,Pooja Gupta,Regular,1554,12,UPI
+CUST000647,Ayaan Verma,Plus,1088,40,UPI
+CUST000648,Leela Iyer,Plus,997,76,Card
+CUST000649,Diya Jain,Premium,220,63,Wallet
+CUST000650,Sara Ghosh,Premium,1392,89,Card
+CUST000651,Ira Chopra,Plus,1301,90,Card
+CUST000652,Meera Khan,Premium,460,85,UPI
+CUST000653,Arvind Jain,Regular,66,35,Wallet
+CUST000654,Arvind Gupta,Regular,578,16,Bank Transfer
+CUST000655,Aadhya Iyer,Regular,299,49,Bank Transfer
+CUST000656,Krishna Menon,Premium,742,13,Cash on Delivery
+CUST000657,Vihaan Jain,Regular,353,73,Card
+CUST000658,Arjun Khan,Premium,398,30,Wallet
+CUST000659,Pooja Gupta,Premium,178,28,Card
+CUST000660,Aditya Das,Regular,365,25,Wallet
+CUST000661,Neha Khan,Premium,428,75,Cash on Delivery
+CUST000662,Arvind Nair,Regular,1150,35,Cash on Delivery
+CUST000663,Avni Singh,Premium,1183,33,Bank Transfer
+CUST000664,Meera Iyer,Regular,788,45,Card
+CUST000665,Arjun Patel,Regular,446,38,Wallet
+CUST000666,Nisha Chopra,Regular,186,4,Bank Transfer
+CUST000667,Arjun Jain,Plus,177,48,Bank Transfer
+CUST000668,Leela Rao,Plus,396,82,Wallet
+CUST000669,Sanjay Menon,Plus,513,37,Cash on Delivery
+CUST000670,Meera Mehta,Regular,369,2,Card
+CUST000671,Rohan Chopra,Regular,843,3,Bank Transfer
+CUST000672,Pari Sharma,Plus,702,12,Bank Transfer
+CUST000673,Kiara Mehta,Regular,721,66,UPI
+CUST000674,Nisha Sharma,Plus,499,54,Bank Transfer
+CUST000675,Avni Patel,Regular,1171,9,Cash on Delivery
+CUST000676,Rahul Bose,Regular,482,59,Bank Transfer
+CUST000677,Aarav Menon,Plus,469,69,Cash on Delivery
+CUST000678,Ayaan Menon,Regular,153,87,Card
+CUST000679,Sara Nair,Premium,214,72,Bank Transfer
+CUST000680,Myra Ghosh,Plus,945,28,Wallet
+CUST000681,Anika Patel,Regular,422,71,Cash on Delivery
+CUST000682,Diya Reddy,Regular,609,47,Cash on Delivery
+CUST000683,Vivaan Ghosh,Regular,1528,3,Bank Transfer
+CUST000684,Arvind Rao,Regular,198,81,Bank Transfer
+CUST000685,Sara Reddy,Regular,697,71,Bank Transfer
+CUST000686,Myra Das,Regular,1529,3,Bank Transfer
+CUST000687,Sai Agarwal,Premium,1180,49,Bank Transfer
+CUST000688,Sai Jain,Plus,1156,70,Bank Transfer
+CUST000689,Ira Verma,Regular,45,60,Cash on Delivery
+CUST000690,Reyansh Kulkarni,Business,429,42,Cash on Delivery
+CUST000691,Sanjay Iyer,Plus,622,8,Bank Transfer
+CUST000692,Sai Joshi,Regular,170,24,Wallet
+CUST000693,Nisha Menon,Regular,1096,55,Cash on Delivery
+CUST000694,Kiara Joshi,Regular,714,89,Bank Transfer
+CUST000695,Kiara Khan,Premium,1505,33,Cash on Delivery
+CUST000696,Leela Patel,Regular,1168,9,Cash on Delivery
+CUST000697,Ira Bose,Premium,470,50,Card
+CUST000698,Leela Nair,Plus,629,9,Card
+CUST000699,Sai Agarwal,Premium,187,16,UPI
+CUST000700,Neha Nair,Regular,353,87,Wallet
+CUST000701,Avni Rao,Regular,894,22,Cash on Delivery
+CUST000702,Krishna Joshi,Regular,46,15,Card
+CUST000703,Neha Ghosh,Premium,1086,60,UPI
+CUST000704,Diya Patel,Regular,892,40,Wallet
+CUST000705,Krishna Khan,Regular,992,79,Card
+CUST000706,Rahul Reddy,Plus,388,45,Card
+CUST000707,Aarav Menon,Plus,583,72,UPI
+CUST000708,Sara Kulkarni,Plus,1569,31,Bank Transfer
+CUST000709,Aadhya Joshi,Regular,530,71,Bank Transfer
+CUST000710,Aadhya Patel,Regular,1029,36,Card
+CUST000711,Vivaan Jain,Plus,894,71,Wallet
+CUST000712,Arjun Jain,Plus,150,23,Wallet
+CUST000713,Sai Joshi,Plus,587,64,Cash on Delivery
+CUST000714,Avni Nair,Premium,260,32,Cash on Delivery
+CUST000715,Aadhya Nair,Plus,1176,59,Bank Transfer
+CUST000716,Sara Iyer,Plus,57,22,Card
+CUST000717,Nisha Menon,Regular,921,58,Wallet
+CUST000718,Reyansh Joshi,Regular,1424,64,Wallet
+CUST000719,Neha Khan,Premium,979,21,Wallet
+CUST000720,Leela Sharma,Regular,915,28,Cash on Delivery
+CUST000721,Meera Agarwal,Regular,455,82,Wallet
+CUST000722,Sai Chopra,Plus,502,30,Card
+CUST000723,Aadhya Verma,Regular,1425,2,Cash on Delivery
+CUST000724,Ananya Bose,Business,1382,78,Cash on Delivery
+CUST000725,Arjun Kulkarni,Regular,707,18,Wallet
+CUST000726,Sai Rao,Regular,1432,85,Cash on Delivery
+CUST000727,Kiara Kulkarni,Regular,1421,75,UPI
+CUST000728,Reyansh Gupta,Business,1352,45,Wallet
+CUST000729,Karthik Jain,Premium,927,24,Bank Transfer
+CUST000730,Neha Kulkarni,Premium,1451,24,Wallet
+CUST000731,Ishaan Ghosh,Regular,643,12,Bank Transfer
+CUST000732,Aarav Reddy,Regular,394,79,UPI
+CUST000733,Kiara Verma,Regular,593,2,Wallet
+CUST000734,Neha Bose,Regular,1008,66,Cash on Delivery
+CUST000735,Nisha Kulkarni,Regular,1002,89,Card
+CUST000736,Karthik Kulkarni,Plus,1237,21,Card
+CUST000737,Arjun Menon,Regular,1335,68,Cash on Delivery
+CUST000738,Ira Mehta,Plus,1221,65,Wallet
+CUST000739,Aadhya Khan,Plus,922,40,Wallet
+CUST000740,Anika Singh,Regular,1460,29,Wallet
+CUST000741,Vihaan Agarwal,Regular,535,82,UPI
+CUST000742,Arjun Reddy,Regular,1008,85,Wallet
+CUST000743,Krishna Khan,Regular,938,65,Wallet
+CUST000744,Arvind Khan,Plus,1232,83,Wallet
+CUST000745,Vihaan Reddy,Plus,275,87,Wallet
+CUST000746,Avni Das,Premium,699,6,Card
+CUST000747,Krishna Patel,Plus,606,52,Bank Transfer
+CUST000748,Reyansh Sharma,Business,996,40,Wallet
+CUST000749,Vivaan Jain,Premium,299,4,Cash on Delivery
+CUST000750,Rahul Singh,Plus,168,34,Bank Transfer
+CUST000751,Rohan Verma,Plus,511,51,Wallet
+CUST000752,Leela Das,Plus,1057,20,UPI
+CUST000753,Diya Menon,Regular,796,10,Card
+CUST000754,Rohan Gupta,Regular,1392,89,Bank Transfer
+CUST000755,Krishna Iyer,Business,629,10,Bank Transfer
+CUST000756,Vivaan Ghosh,Business,118,32,Cash on Delivery
+CUST000757,Ira Gupta,Regular,541,36,Bank Transfer
+CUST000758,Anika Agarwal,Premium,277,16,Cash on Delivery
+CUST000759,Sai Rao,Regular,900,31,Cash on Delivery
+CUST000760,Nisha Sharma,Plus,138,85,Card
+CUST000761,Reyansh Joshi,Premium,1046,56,Bank Transfer
+CUST000762,Reyansh Singh,Regular,848,43,Cash on Delivery
+CUST000763,Sara Singh,Plus,878,58,Bank Transfer
+CUST000764,Sanjay Agarwal,Regular,372,50,Cash on Delivery
+CUST000765,Ananya Gupta,Regular,575,47,UPI
+CUST000766,Anika Reddy,Premium,403,27,Cash on Delivery
+CUST000767,Anika Mehta,Plus,52,25,Card
+CUST000768,Sanjay Ghosh,Regular,306,76,Wallet
+CUST000769,Sanjay Gupta,Regular,270,77,Bank Transfer
+CUST000770,Aditya Das,Regular,506,20,Card
+CUST000771,Ishaan Singh,Regular,584,56,Cash on Delivery
+CUST000772,Meera Khan,Plus,218,40,UPI
+CUST000773,Anika Reddy,Regular,357,66,UPI
+CUST000774,Sanjay Menon,Plus,136,63,Cash on Delivery
+CUST000775,Avni Khan,Plus,1243,81,UPI
+CUST000776,Ishaan Chopra,Premium,783,78,Cash on Delivery
+CUST000777,Arjun Agarwal,Plus,111,21,Cash on Delivery
+CUST000778,Pooja Nair,Business,153,26,Cash on Delivery
+CUST000779,Sai Das,Regular,1278,79,UPI
+CUST000780,Vihaan Singh,Plus,581,72,UPI
+CUST000781,Ishaan Jain,Premium,52,36,Bank Transfer
+CUST000782,Reyansh Rao,Plus,1052,3,Cash on Delivery
+CUST000783,Ira Gupta,Regular,1052,60,UPI
+CUST000784,Vivaan Iyer,Regular,1504,39,Cash on Delivery
+CUST000785,Karthik Jain,Regular,390,82,Cash on Delivery
+CUST000786,Kiara Singh,Business,1388,13,Card
+CUST000787,Rahul Rao,Plus,1052,89,UPI
+CUST000788,Arvind Gupta,Regular,904,61,Wallet
+CUST000789,Myra Khan,Plus,1026,37,UPI
+CUST000790,Pari Menon,Premium,628,82,Bank Transfer
+CUST000791,Pari Ghosh,Plus,675,75,Wallet
+CUST000792,Diya Kulkarni,Plus,153,59,Card
+CUST000793,Aarav Chopra,Business,557,64,Bank Transfer
+CUST000794,Ishaan Nair,Plus,1302,83,Wallet
+CUST000795,Arvind Jain,Regular,1053,76,Wallet
+CUST000796,Vihaan Patel,Business,965,47,UPI
+CUST000797,Rahul Gupta,Regular,1001,79,Wallet
+CUST000798,Rohan Nair,Plus,424,8,Wallet
+CUST000799,Rahul Menon,Premium,934,33,UPI
+CUST000800,Kiara Menon,Business,1481,1,UPI
+CUST000801,Nisha Das,Regular,1163,32,Cash on Delivery
+CUST000802,Arjun Menon,Premium,118,49,Cash on Delivery
+CUST000803,Krishna Rao,Regular,1185,1,Bank Transfer
+CUST000804,Ishaan Das,Regular,1072,28,Card
+CUST000805,Neha Bose,Plus,328,7,Card
+CUST000806,Myra Jain,Plus,566,77,Bank Transfer
+CUST000807,Rohan Joshi,Regular,1220,12,Cash on Delivery
+CUST000808,Sai Agarwal,Premium,174,55,UPI
+CUST000809,Ira Das,Premium,1300,71,Wallet
+CUST000810,Myra Agarwal,Plus,780,52,Cash on Delivery
+CUST000811,Rohan Chopra,Premium,831,39,Card
+CUST000812,Diya Ghosh,Premium,1492,63,Bank Transfer
+CUST000813,Ishaan Sharma,Regular,501,42,Bank Transfer
+CUST000814,Vihaan Patel,Plus,639,67,Cash on Delivery
+CUST000815,Leela Das,Regular,402,36,Cash on Delivery
+CUST000816,Krishna Iyer,Plus,1327,44,UPI
+CUST000817,Krishna Bose,Business,1472,18,UPI
+CUST000818,Sai Sharma,Regular,745,19,Wallet
+CUST000819,Krishna Jain,Regular,1442,69,Cash on Delivery
+CUST000820,Diya Nair,Regular,1041,43,UPI
+CUST000821,Ishaan Jain,Plus,146,27,Wallet
+CUST000822,Aditya Khan,Plus,100,32,UPI
+CUST000823,Karthik Kulkarni,Regular,1323,61,UPI
+CUST000824,Reyansh Joshi,Plus,1129,68,Wallet
+CUST000825,Ishaan Singh,Premium,100,10,Card
+CUST000826,Ayaan Kulkarni,Plus,297,7,Cash on Delivery
+CUST000827,Diya Agarwal,Regular,142,21,UPI
+CUST000828,Aarav Singh,Premium,1383,19,Wallet
+CUST000829,Nisha Reddy,Premium,608,26,Wallet
+CUST000830,Rahul Chopra,Plus,951,47,Cash on Delivery
+CUST000831,Rohan Kulkarni,Plus,123,22,Bank Transfer
+CUST000832,Ishaan Iyer,Regular,376,65,Cash on Delivery
+CUST000833,Karthik Verma,Regular,686,25,Card
+CUST000834,Arvind Sharma,Plus,974,33,Card
+CUST000835,Kiara Gupta,Regular,640,26,UPI
+CUST000836,Arvind Mehta,Business,1149,63,Wallet
+CUST000837,Aadhya Reddy,Plus,419,35,Cash on Delivery
+CUST000838,Arvind Das,Plus,750,82,Cash on Delivery
+CUST000839,Avni Gupta,Regular,1278,52,Card
+CUST000840,Avni Chopra,Regular,1065,7,Cash on Delivery
+CUST000841,Aarav Gupta,Regular,1074,10,Bank Transfer
+CUST000842,Karthik Rao,Regular,1360,82,Card
+CUST000843,Diya Das,Premium,1232,52,Card
+CUST000844,Aditya Chopra,Plus,1230,15,Card
+CUST000845,Reyansh Singh,Plus,658,65,Bank Transfer
+CUST000846,Nisha Patel,Plus,911,87,Wallet
+CUST000847,Arvind Iyer,Regular,139,89,Card
+CUST000848,Aditya Gupta,Regular,387,40,Card
+CUST000849,Nisha Verma,Business,255,51,Cash on Delivery
+CUST000850,Aditya Reddy,Regular,154,22,UPI
+CUST000851,Ishaan Kulkarni,Regular,621,82,UPI
+CUST000852,Rohan Reddy,Premium,1278,66,UPI
+CUST000853,Rahul Reddy,Regular,1016,76,Card
+CUST000854,Aditya Chopra,Regular,517,4,Bank Transfer
+CUST000855,Myra Verma,Business,1100,72,Wallet
+CUST000856,Pari Kulkarni,Plus,738,44,Cash on Delivery
+CUST000857,Rahul Jain,Premium,1446,82,UPI
+CUST000858,Krishna Gupta,Regular,1006,22,Cash on Delivery
+CUST000859,Ayaan Patel,Premium,882,2,UPI
+CUST000860,Vivaan Iyer,Plus,664,15,Card
+CUST000861,Diya Ghosh,Regular,981,17,Cash on Delivery
+CUST000862,Arvind Joshi,Regular,76,59,Wallet
+CUST000863,Ishaan Menon,Regular,555,58,Bank Transfer
+CUST000864,Aadhya Agarwal,Regular,65,69,Bank Transfer
+CUST000865,Leela Verma,Regular,231,86,Bank Transfer
+CUST000866,Arjun Kulkarni,Plus,645,24,Card
+CUST000867,Aarav Jain,Plus,1232,22,UPI
+CUST000868,Reyansh Gupta,Plus,679,36,UPI
+CUST000869,Kiara Iyer,Business,866,74,Cash on Delivery
+CUST000870,Arvind Khan,Regular,104,34,UPI
+CUST000871,Aadhya Das,Premium,518,76,Card
+CUST000872,Neha Rao,Regular,218,54,Card
+CUST000873,Pooja Gupta,Regular,69,80,Card
+CUST000874,Meera Ghosh,Plus,297,52,Cash on Delivery
+CUST000875,Pari Joshi,Regular,1220,90,Wallet
+CUST000876,Sara Verma,Regular,1540,23,UPI
+CUST000877,Vivaan Jain,Plus,1001,83,Card
+CUST000878,Nisha Joshi,Plus,1415,23,Wallet
+CUST000879,Pooja Reddy,Plus,1558,21,Cash on Delivery
+CUST000880,Myra Reddy,Premium,302,56,Card
+CUST000881,Karthik Verma,Premium,1129,57,UPI
+CUST000882,Kiara Khan,Regular,666,67,Bank Transfer
+CUST000883,Vihaan Rao,Regular,338,76,Wallet
+CUST000884,Arvind Menon,Regular,1320,3,Cash on Delivery
+CUST000885,Arvind Reddy,Regular,1080,75,Cash on Delivery
+CUST000886,Diya Chopra,Plus,1108,77,Card
+CUST000887,Anika Gupta,Plus,417,58,Card
+CUST000888,Avni Singh,Regular,790,78,Card
+CUST000889,Sai Menon,Plus,299,6,Card
+CUST000890,Anika Khan,Plus,843,25,Cash on Delivery
+CUST000891,Leela Mehta,Regular,760,51,UPI
+CUST000892,Pooja Gupta,Regular,224,2,UPI
+CUST000893,Leela Mehta,Regular,1163,29,Wallet
+CUST000894,Ananya Patel,Regular,904,35,Card
+CUST000895,Ayaan Chopra,Regular,1334,50,Card
+CUST000896,Rohan Verma,Plus,222,44,Cash on Delivery
+CUST000897,Pari Sharma,Regular,734,88,UPI
+CUST000898,Kiara Chopra,Regular,389,20,Bank Transfer
+CUST000899,Ayaan Ghosh,Premium,804,48,Card
+CUST000900,Arjun Reddy,Regular,1400,26,UPI
+CUST000901,Rohan Bose,Regular,1303,67,Wallet
+CUST000902,Neha Kulkarni,Regular,1053,11,Wallet
+CUST000903,Anika Rao,Plus,540,61,Cash on Delivery
+CUST000904,Aarav Das,Plus,1535,64,UPI
+CUST000905,Aadhya Jain,Premium,244,47,Cash on Delivery
+CUST000906,Sanjay Iyer,Plus,1326,59,Card
+CUST000907,Myra Agarwal,Regular,1590,1,Bank Transfer
+CUST000908,Rohan Gupta,Plus,1529,65,Bank Transfer
+CUST000909,Neha Bose,Regular,717,56,Cash on Delivery
+CUST000910,Anika Bose,Regular,1442,78,Wallet
+CUST000911,Kiara Singh,Plus,88,85,UPI
+CUST000912,Avni Iyer,Premium,1474,39,UPI
+CUST000913,Rahul Rao,Plus,193,13,Card
+CUST000914,Ananya Iyer,Regular,1063,20,Wallet
+CUST000915,Vihaan Patel,Regular,954,23,Bank Transfer
+CUST000916,Aadhya Khan,Plus,1025,37,Bank Transfer
+CUST000917,Neha Bose,Regular,666,64,UPI
+CUST000918,Aarav Khan,Regular,151,63,Card
+CUST000919,Arjun Joshi,Regular,856,30,UPI
+CUST000920,Sara Sharma,Plus,427,41,Wallet
+CUST000921,Avni Joshi,Plus,859,76,Card
+CUST000922,Krishna Singh,Regular,359,51,Wallet
+CUST000923,Krishna Reddy,Regular,1237,43,UPI
+CUST000924,Sai Mehta,Regular,1191,11,Cash on Delivery
+CUST000925,Aadhya Menon,Plus,884,21,Wallet
+CUST000926,Leela Mehta,Regular,100,14,Cash on Delivery
+CUST000927,Aadhya Patel,Regular,371,11,UPI
+CUST000928,Sara Menon,Plus,955,3,Card
+CUST000929,Sara Das,Regular,1415,37,Bank Transfer
+CUST000930,Meera Gupta,Business,1149,19,UPI
+CUST000931,Krishna Joshi,Regular,432,2,UPI
+CUST000932,Meera Khan,Regular,1401,33,Wallet
+CUST000933,Aadhya Iyer,Regular,1342,14,Cash on Delivery
+CUST000934,Ira Bose,Regular,592,19,UPI
+CUST000935,Aarav Sharma,Regular,830,12,UPI
+CUST000936,Kiara Kulkarni,Plus,776,18,Bank Transfer
+CUST000937,Anika Jain,Premium,313,24,Cash on Delivery
+CUST000938,Anika Singh,Premium,1465,77,Card
+CUST000939,Ishaan Ghosh,Regular,767,33,UPI
+CUST000940,Diya Reddy,Regular,311,85,Cash on Delivery
+CUST000941,Avni Verma,Regular,372,3,Wallet
+CUST000942,Sai Jain,Regular,1436,47,Wallet
+CUST000943,Vihaan Nair,Regular,1356,37,Wallet
+CUST000944,Ananya Iyer,Business,124,44,UPI
+CUST000945,Aadhya Agarwal,Regular,896,66,UPI
+CUST000946,Pooja Patel,Regular,347,53,Wallet
+CUST000947,Karthik Chopra,Regular,188,57,Bank Transfer
+CUST000948,Aarav Das,Plus,1524,51,Bank Transfer
+CUST000949,Diya Patel,Premium,572,18,Wallet
+CUST000950,Diya Kulkarni,Regular,391,53,Wallet
+CUST000951,Rahul Ghosh,Regular,256,23,UPI
+CUST000952,Sai Sharma,Premium,685,86,Card
+CUST000953,Ayaan Sharma,Plus,703,60,Cash on Delivery
+CUST000954,Diya Mehta,Regular,1504,87,UPI
+CUST000955,Karthik Jain,Regular,1315,25,UPI
+CUST000956,Krishna Jain,Regular,580,78,Bank Transfer
+CUST000957,Meera Iyer,Regular,776,67,Cash on Delivery
+CUST000958,Kiara Kulkarni,Plus,247,70,Cash on Delivery
+CUST000959,Karthik Reddy,Plus,1381,8,Cash on Delivery
+CUST000960,Rahul Jain,Regular,260,39,Bank Transfer
+CUST000961,Avni Rao,Regular,68,67,Card
+CUST000962,Sai Agarwal,Regular,746,60,Bank Transfer
+CUST000963,Nisha Mehta,Plus,249,16,Card
+CUST000964,Rohan Iyer,Premium,732,88,UPI
+CUST000965,Reyansh Chopra,Premium,1213,77,Card
+CUST000966,Rohan Bose,Plus,489,77,Bank Transfer
+CUST000967,Aadhya Patel,Regular,831,46,UPI
+CUST000968,Anika Mehta,Regular,978,23,Cash on Delivery
+CUST000969,Karthik Khan,Regular,1118,68,UPI
+CUST000970,Neha Patel,Premium,120,14,Cash on Delivery
+CUST000971,Ayaan Reddy,Regular,1257,69,Card
+CUST000972,Aadhya Menon,Regular,362,9,Bank Transfer
+CUST000973,Aarav Sharma,Premium,974,65,Card
+CUST000974,Karthik Khan,Regular,693,10,Cash on Delivery
+CUST000975,Meera Das,Regular,578,15,Bank Transfer
+CUST000976,Nisha Nair,Regular,399,71,Bank Transfer
+CUST000977,Nisha Nair,Regular,1571,83,Bank Transfer
+CUST000978,Rohan Nair,Regular,1453,76,Cash on Delivery
+CUST000979,Rahul Bose,Regular,1278,47,Cash on Delivery
+CUST000980,Ananya Joshi,Regular,1239,57,Wallet
+CUST000981,Ira Chopra,Regular,1445,19,Bank Transfer
+CUST000982,Arvind Reddy,Plus,1477,70,Cash on Delivery
+CUST000983,Sanjay Singh,Premium,1021,87,UPI
+CUST000984,Avni Menon,Regular,225,40,Card
+CUST000985,Aditya Chopra,Plus,81,28,Cash on Delivery
+CUST000986,Anika Iyer,Regular,1588,83,Bank Transfer
+CUST000987,Neha Ghosh,Regular,1205,53,Bank Transfer
+CUST000988,Reyansh Chopra,Regular,557,90,Wallet
+CUST000989,Aadhya Kulkarni,Plus,920,20,Bank Transfer
+CUST000990,Reyansh Reddy,Plus,1557,37,Card
+CUST000991,Meera Sharma,Plus,1123,51,Bank Transfer
+CUST000992,Vihaan Das,Premium,1474,20,UPI
+CUST000993,Avni Singh,Plus,450,37,Wallet
+CUST000994,Arvind Nair,Plus,337,41,Bank Transfer
+CUST000995,Neha Mehta,Plus,678,82,Bank Transfer
+CUST000996,Sanjay Jain,Regular,477,47,Cash on Delivery
+CUST000997,Krishna Menon,Regular,1126,51,Cash on Delivery
+CUST000998,Krishna Bose,Plus,1314,7,UPI
+CUST000999,Vivaan Ghosh,Regular,1428,53,Card
+CUST001000,Vihaan Kulkarni,Regular,678,65,Wallet
+CUST001001,Pooja Rao,Premium,814,41,UPI
+CUST001002,Arjun Rao,Regular,1227,88,Cash on Delivery
+CUST001003,Pooja Sharma,Premium,1048,11,Cash on Delivery
+CUST001004,Aditya Mehta,Regular,1178,86,Bank Transfer
+CUST001005,Vihaan Ghosh,Regular,1093,12,Wallet
+CUST001006,Kiara Singh,Regular,1471,65,Wallet
+CUST001007,Diya Reddy,Premium,1441,6,Cash on Delivery
+CUST001008,Pooja Mehta,Regular,734,43,Card
+CUST001009,Anika Iyer,Regular,375,30,Bank Transfer
+CUST001010,Arvind Reddy,Regular,1162,41,UPI
+CUST001011,Aditya Menon,Regular,1108,84,Cash on Delivery
+CUST001012,Leela Iyer,Plus,503,24,UPI
+CUST001013,Aditya Ghosh,Regular,526,22,Card
+CUST001014,Aditya Agarwal,Regular,1428,26,Bank Transfer
+CUST001015,Nisha Bose,Regular,937,58,Bank Transfer
+CUST001016,Leela Iyer,Plus,1595,55,Card
+CUST001017,Leela Reddy,Regular,642,54,Cash on Delivery
+CUST001018,Sara Singh,Regular,123,41,UPI
+CUST001019,Myra Bose,Plus,748,51,UPI
+CUST001020,Nisha Ghosh,Regular,1548,57,UPI
+CUST001021,Vihaan Nair,Regular,1351,2,Cash on Delivery
+CUST001022,Anika Das,Regular,575,9,Cash on Delivery
+CUST001023,Neha Mehta,Plus,1185,56,Bank Transfer
+CUST001024,Sai Iyer,Regular,1007,77,UPI
+CUST001025,Ira Kulkarni,Plus,415,64,Card
+CUST001026,Avni Agarwal,Regular,1137,41,Card
+CUST001027,Kiara Nair,Plus,868,42,Wallet
+CUST001028,Sai Rao,Plus,1380,82,UPI
+CUST001029,Karthik Singh,Plus,1258,45,Bank Transfer
+CUST001030,Ira Sharma,Premium,335,17,Card
+CUST001031,Arjun Sharma,Premium,623,1,Bank Transfer
+CUST001032,Avni Sharma,Premium,711,1,Card
+CUST001033,Ayaan Khan,Regular,1027,5,Cash on Delivery
+CUST001034,Neha Ghosh,Plus,546,43,Wallet
+CUST001035,Sanjay Sharma,Plus,322,42,UPI
+CUST001036,Neha Rao,Regular,501,55,Bank Transfer
+CUST001037,Nisha Rao,Regular,1578,6,Wallet
+CUST001038,Sara Khan,Plus,1104,65,UPI
+CUST001039,Myra Joshi,Regular,623,4,Bank Transfer
+CUST001040,Diya Menon,Regular,639,64,Wallet
+CUST001041,Kiara Agarwal,Regular,737,80,UPI
+CUST001042,Meera Joshi,Regular,1023,5,Card
+CUST001043,Kiara Das,Regular,571,76,UPI
+CUST001044,Vivaan Chopra,Plus,709,54,UPI
+CUST001045,Karthik Menon,Regular,105,71,Wallet
+CUST001046,Ira Patel,Plus,728,58,UPI
+CUST001047,Sara Bose,Regular,342,17,UPI
+CUST001048,Meera Joshi,Regular,537,54,Bank Transfer
+CUST001049,Ananya Bose,Business,1100,17,Cash on Delivery
+CUST001050,Sanjay Jain,Regular,530,43,UPI
+CUST001051,Ishaan Nair,Regular,1465,5,Cash on Delivery
+CUST001052,Karthik Verma,Plus,1539,64,Card
+CUST001053,Vihaan Sharma,Regular,1517,30,Bank Transfer
+CUST001054,Krishna Joshi,Plus,265,73,Cash on Delivery
+CUST001055,Rahul Verma,Plus,1544,11,Cash on Delivery
+CUST001056,Anika Gupta,Regular,69,88,Bank Transfer
+CUST001057,Sanjay Sharma,Regular,107,30,UPI
+CUST001058,Nisha Mehta,Regular,853,3,Bank Transfer
+CUST001059,Rahul Agarwal,Plus,1092,60,Bank Transfer
+CUST001060,Aadhya Menon,Plus,1394,2,UPI
+CUST001061,Aditya Jain,Regular,775,70,UPI
+CUST001062,Ayaan Khan,Business,857,79,UPI
+CUST001063,Krishna Sharma,Premium,1097,1,Card
+CUST001064,Pooja Kulkarni,Regular,264,30,Wallet
+CUST001065,Kiara Bose,Premium,79,90,UPI
+CUST001066,Arjun Iyer,Regular,945,82,Bank Transfer
+CUST001067,Ayaan Kulkarni,Regular,826,37,Card
+CUST001068,Neha Ghosh,Regular,1359,9,UPI
+CUST001069,Avni Kulkarni,Plus,1483,5,Cash on Delivery
+CUST001070,Meera Sharma,Regular,245,40,UPI
+CUST001071,Arjun Das,Premium,942,72,Bank Transfer
+CUST001072,Karthik Singh,Plus,59,8,Bank Transfer
+CUST001073,Karthik Das,Regular,802,81,Card
+CUST001074,Ira Mehta,Regular,262,59,Cash on Delivery
+CUST001075,Vihaan Ghosh,Premium,1556,19,Card
+CUST001076,Reyansh Nair,Plus,690,17,Wallet
+CUST001077,Sanjay Kulkarni,Regular,678,43,Card
+CUST001078,Rahul Verma,Regular,755,87,Bank Transfer
+CUST001079,Aadhya Rao,Plus,1260,75,UPI
+CUST001080,Rahul Nair,Regular,1399,82,Cash on Delivery
+CUST001081,Sanjay Gupta,Regular,281,86,Wallet
+CUST001082,Diya Agarwal,Regular,1252,63,UPI
+CUST001083,Rahul Reddy,Regular,225,68,UPI
+CUST001084,Ira Rao,Plus,142,54,UPI
+CUST001085,Sai Sharma,Regular,1114,40,Cash on Delivery
+CUST001086,Leela Ghosh,Regular,614,58,Wallet
+CUST001087,Ayaan Patel,Regular,1456,78,Cash on Delivery
+CUST001088,Arvind Das,Regular,106,88,Wallet
+CUST001089,Karthik Mehta,Regular,1073,29,Wallet
+CUST001090,Ayaan Joshi,Regular,517,45,Card
+CUST001091,Arvind Khan,Premium,190,78,Bank Transfer
+CUST001092,Anika Iyer,Plus,493,27,UPI
+CUST001093,Neha Jain,Regular,1087,84,Bank Transfer
+CUST001094,Pari Rao,Regular,878,18,Card
+CUST001095,Rahul Jain,Plus,909,87,Card
+CUST001096,Sanjay Rao,Regular,168,55,Bank Transfer
+CUST001097,Rahul Rao,Regular,132,29,Bank Transfer
+CUST001098,Meera Singh,Regular,1506,73,Wallet
+CUST001099,Myra Sharma,Premium,1455,83,Cash on Delivery
+CUST001100,Ira Joshi,Premium,857,81,Wallet
+CUST001101,Aarav Mehta,Regular,766,42,Cash on Delivery
+CUST001102,Pari Chopra,Regular,287,46,Cash on Delivery
+CUST001103,Ira Rao,Plus,848,79,Cash on Delivery
+CUST001104,Karthik Chopra,Premium,1472,55,Card
+CUST001105,Sara Ghosh,Plus,716,86,UPI
+CUST001106,Arjun Ghosh,Business,659,67,Bank Transfer
+CUST001107,Arjun Agarwal,Premium,1205,48,Cash on Delivery
+CUST001108,Leela Agarwal,Regular,1543,44,Card
+CUST001109,Sai Patel,Regular,1453,74,Card
+CUST001110,Meera Sharma,Regular,1396,57,Cash on Delivery
+CUST001111,Reyansh Verma,Plus,726,2,UPI
+CUST001112,Pooja Agarwal,Premium,715,20,UPI
+CUST001113,Reyansh Iyer,Plus,558,34,Card
+CUST001114,Ananya Rao,Regular,1353,5,Card
+CUST001115,Meera Singh,Premium,548,19,Card
+CUST001116,Myra Khan,Regular,270,80,Cash on Delivery
+CUST001117,Aadhya Kulkarni,Premium,1359,56,UPI
+CUST001118,Vivaan Singh,Premium,1355,25,Card
+CUST001119,Sanjay Ghosh,Regular,418,33,Bank Transfer
+CUST001120,Aarav Jain,Plus,772,18,UPI
+CUST001121,Nisha Singh,Regular,926,75,Cash on Delivery
+CUST001122,Sai Khan,Regular,142,78,Bank Transfer
+CUST001123,Anika Agarwal,Plus,742,25,Bank Transfer
+CUST001124,Arjun Kulkarni,Plus,303,68,Cash on Delivery
+CUST001125,Avni Gupta,Plus,269,30,UPI
+CUST001126,Ayaan Reddy,Plus,1135,82,Cash on Delivery
+CUST001127,Reyansh Agarwal,Regular,589,89,Card
+CUST001128,Myra Verma,Regular,1510,36,Wallet
+CUST001129,Aditya Mehta,Regular,1589,81,UPI
+CUST001130,Diya Verma,Premium,441,53,Card
+CUST001131,Aarav Das,Regular,1581,73,Wallet
+CUST001132,Sai Sharma,Plus,1226,45,UPI
+CUST001133,Arvind Jain,Regular,1345,7,Cash on Delivery
+CUST001134,Avni Kulkarni,Premium,1427,38,UPI
+CUST001135,Aadhya Bose,Premium,1586,30,Card
+CUST001136,Vihaan Mehta,Regular,379,32,Cash on Delivery
+CUST001137,Arjun Kulkarni,Plus,888,85,Wallet
+CUST001138,Karthik Iyer,Plus,1450,42,Bank Transfer
+CUST001139,Rohan Nair,Regular,891,19,Wallet
+CUST001140,Myra Rao,Regular,368,35,UPI
+CUST001141,Rahul Nair,Regular,1128,46,Wallet
+CUST001142,Pari Khan,Regular,1429,74,Card
+CUST001143,Aadhya Jain,Business,289,70,Bank Transfer
+CUST001144,Arjun Nair,Regular,820,35,UPI
+CUST001145,Aadhya Rao,Plus,406,72,Card
+CUST001146,Neha Joshi,Plus,1316,7,Card
+CUST001147,Rahul Bose,Regular,1370,9,UPI
+CUST001148,Rohan Joshi,Plus,453,18,Wallet
+CUST001149,Meera Chopra,Regular,1101,23,Wallet
+CUST001150,Arvind Mehta,Regular,1083,10,UPI
+CUST001151,Reyansh Sharma,Premium,1408,82,UPI
+CUST001152,Myra Bose,Regular,239,53,Wallet
+CUST001153,Vivaan Joshi,Regular,686,47,Cash on Delivery
+CUST001154,Leela Joshi,Regular,792,76,Wallet
+CUST001155,Nisha Chopra,Premium,749,3,UPI
+CUST001156,Sai Khan,Regular,706,15,Card
+CUST001157,Pari Bose,Regular,602,10,Wallet
+CUST001158,Kiara Jain,Regular,1204,85,Card
+CUST001159,Meera Mehta,Plus,85,40,Bank Transfer
+CUST001160,Vihaan Chopra,Business,867,30,Cash on Delivery
+CUST001161,Aarav Mehta,Plus,1293,78,Card
+CUST001162,Neha Jain,Plus,898,34,Cash on Delivery
+CUST001163,Krishna Jain,Premium,1355,21,Cash on Delivery
+CUST001164,Rohan Joshi,Plus,995,18,Cash on Delivery
+CUST001165,Reyansh Ghosh,Regular,1165,66,Wallet
+CUST001166,Avni Das,Regular,1468,76,Bank Transfer
+CUST001167,Anika Bose,Regular,1123,19,Wallet
+CUST001168,Ishaan Reddy,Regular,1131,46,Bank Transfer
+CUST001169,Vivaan Menon,Regular,1035,60,Bank Transfer
+CUST001170,Kiara Nair,Business,367,53,Cash on Delivery
+CUST001171,Diya Kulkarni,Plus,1504,17,Bank Transfer
+CUST001172,Nisha Ghosh,Premium,337,30,Card
+CUST001173,Aarav Gupta,Regular,1036,73,UPI
+CUST001174,Ira Rao,Premium,1505,31,Card
+CUST001175,Arjun Rao,Regular,674,49,Card
+CUST001176,Aarav Khan,Regular,850,57,Card
+CUST001177,Karthik Singh,Regular,378,72,Card
+CUST001178,Arjun Rao,Regular,1476,60,Cash on Delivery
+CUST001179,Vivaan Khan,Premium,966,65,Wallet
+CUST001180,Vivaan Gupta,Regular,848,2,Wallet
+CUST001181,Pari Ghosh,Premium,144,57,Cash on Delivery
+CUST001182,Ishaan Menon,Premium,450,26,UPI
+CUST001183,Myra Patel,Plus,238,1,Cash on Delivery
+CUST001184,Sanjay Agarwal,Plus,538,39,Cash on Delivery
+CUST001185,Sanjay Menon,Regular,1427,53,Cash on Delivery
+CUST001186,Ayaan Singh,Plus,1018,21,UPI
+CUST001187,Nisha Sharma,Regular,866,85,Bank Transfer
+CUST001188,Ira Ghosh,Regular,1335,43,Bank Transfer
+CUST001189,Diya Kulkarni,Regular,1368,55,UPI
+CUST001190,Ananya Verma,Plus,1277,34,Card
+CUST001191,Sara Bose,Regular,1025,23,Bank Transfer
+CUST001192,Sara Ghosh,Plus,142,37,Wallet
+CUST001193,Sai Rao,Plus,1306,65,Card
+CUST001194,Ayaan Das,Regular,248,23,UPI
+CUST001195,Ananya Nair,Plus,719,19,Card
+CUST001196,Ira Bose,Regular,895,7,Card
+CUST001197,Avni Nair,Premium,640,73,Bank Transfer
+CUST001198,Myra Gupta,Regular,1417,59,Card
+CUST001199,Myra Verma,Regular,1008,80,Wallet
+CUST001200,Arvind Sharma,Regular,82,58,Cash on Delivery

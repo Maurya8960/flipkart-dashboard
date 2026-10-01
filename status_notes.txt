@@ -1,0 +1,100 @@
+2026-05-27 | NOTE001 | PAYMENT_RECON | Payment mismatch cases need manual reconciliation.
+2026-05-26 | NOTE002 | CUSTOMER_ESCALATION | Escalation desk requested merged complaint and ticket view.
+2026-05-24 | NOTE003 | CITY_DELAY_WATCH | Repeated delivery delay patterns observed in Ahmedabad. Courier: Ecom Express.
+2026-05-18 | NOTE004 | REFUND_BACKLOG | Refund operations backlog reported for high-value orders above INR 25000.
+2026-06-10 | NOTE005 | OPERATIONS_HANDOVER | Product team requested business-readable recommended actions.
+2026-06-19 | NOTE006 | SELLER_ISSUE_CLUSTER | Seller category Furniture requires monitoring for repeated complaints.
+2026-05-08 | NOTE007 | CUSTOMER_ESCALATION | Escalation desk requested merged complaint and ticket view.
+2026-05-28 | NOTE008 | SELLER_ISSUE_CLUSTER | Seller category Sports requires monitoring for repeated complaints.
+2026-06-04 | NOTE009 | PAYMENT_RECON | Payment mismatch cases need manual reconciliation.
+2026-05-05 | NOTE010 | SELLER_ISSUE_CLUSTER | Seller category Books requires monitoring for repeated complaints.
+2026-05-29 | NOTE011 | REFUND_BACKLOG | Refund operations backlog reported for high-value orders above INR 25000.
+2026-06-22 | NOTE012 | REFUND_BACKLOG | Refund operations backlog reported for high-value orders above INR 25000.
+2026-06-17 | NOTE013 | DATA_QUALITY | Blank delivery dates and messy statuses should be flagged before reporting.
+2026-05-12 | NOTE014 | OPERATIONS_HANDOVER | Product team requested business-readable recommended actions.
+2026-06-21 | NOTE015 | AI_PROMPT_READY | Generate support prompts only; no external AI API integration.
+2026-06-12 | NOTE016 | DUPLICATE_ORDER_WATCH | Possible duplicate order/refund pattern reported by customers.
+2026-05-29 | NOTE017 | CUSTOMER_ESCALATION | Escalation desk requested merged complaint and ticket view.
+2026-06-22 | NOTE018 | CITY_DELAY_WATCH | Repeated delivery delay patterns observed in Mumbai. Courier: BlueDart.
+2026-06-21 | NOTE019 | AI_PROMPT_READY | Generate support prompts only; no external AI API integration.
+2026-05-22 | NOTE020 | SLA_MONITOR | Tickets unresolved beyond target window need priority routing.
+2026-06-06 | NOTE021 | AI_PROMPT_READY | Generate support prompts only; no external AI API integration.
+2026-06-19 | NOTE022 | REFUND_BACKLOG | Refund operations backlog reported for high-value orders above INR 25000.
+2026-05-11 | NOTE023 | DUPLICATE_ORDER_WATCH | Possible duplicate order/refund pattern reported by customers.
+2026-06-15 | NOTE024 | SLA_MONITOR | Tickets unresolved beyond target window need priority routing.
+2026-06-11 | NOTE025 | CUSTOMER_ESCALATION | Escalation desk requested merged complaint and ticket view.
+2026-05-05 | NOTE026 | CITY_DELAY_WATCH | Repeated delivery delay patterns observed in Chennai. Courier: Delhivery.
+2026-05-15 | NOTE027 | AI_PROMPT_READY | Generate support prompts only; no external AI API integration.
+2026-06-19 | NOTE028 | CITY_DELAY_WATCH | Repeated delivery delay patterns observed in Chennai. Courier: BlueDart.
+2026-06-22 | NOTE029 | CUSTOMER_ESCALATION | Escalation desk requested merged complaint and ticket view.
+2026-06-21 | NOTE030 | DUPLICATE_ORDER_WATCH | Possible duplicate order/refund pattern reported by customers.
+2026-06-09 | NOTE031 | PAYMENT_RECON | Payment mismatch cases need manual reconciliation.
+2026-05-20 | NOTE032 | AI_PROMPT_READY | Generate support prompts only; no external AI API integration.
+2026-05-05 | NOTE033 | DATA_QUALITY | Blank delivery dates and messy statuses should be flagged before reporting.
+2026-06-18 | NOTE034 | DATA_QUALITY | Blank delivery dates and messy statuses should be flagged before reporting.
+2026-05-14 | NOTE035 | OPERATIONS_HANDOVER | Product team requested business-readable recommended actions.
+2026-06-05 | NOTE036 | SELLER_ISSUE_CLUSTER | Seller category Appliances requires monitoring for repeated complaints.
+2026-06-16 | NOTE037 | DATA_QUALITY | Blank delivery dates and messy statuses should be flagged before reporting.
+2026-06-10 | NOTE038 | CITY_DELAY_WATCH | Repeated delivery delay patterns observed in Jaipur. Courier: Shadowfax.
+2026-06-07 | NOTE039 | AI_PROMPT_READY | Generate support prompts only; no external AI API integration.
+2026-05-30 | NOTE040 | PAYMENT_RECON | Payment mismatch cases need manual reconciliation.
+2026-06-11 | NOTE041 | CUSTOMER_ESCALATION | Escalation desk requested merged complaint and ticket view.
+2026-05-22 | NOTE042 | OPERATIONS_HANDOVER | Product team requested business-readable recommended actions.
+2026-05-29 | NOTE043 | DATA_QUALITY | Blank delivery dates and messy statuses should be flagged before reporting.
+2026-05-04 | NOTE044 | DUPLICATE_ORDER_WATCH | Possible duplicate order/refund pattern reported by customers.
+2026-05-13 | NOTE045 | CITY_DELAY_WATCH | Repeated delivery delay patterns observed in Coimbatore. Courier: BlueDart.
+2026-06-11 | NOTE046 | REFUND_BACKLOG | Refund operations backlog reported for high-value orders above INR 25000.
+2026-06-15 | NOTE047 | CITY_DELAY_WATCH | Repeated delivery delay patterns observed in Pune. Courier: XpressBees.
+2026-06-12 | NOTE048 | CITY_DELAY_WATCH | Repeated delivery delay patterns observed in Delhi. Courier: BlueDart.
+2026-05-14 | NOTE049 | SELLER_ISSUE_CLUSTER | Seller category Mobiles requires monitoring for repeated complaints.
+2026-06-18 | NOTE050 | OPERATIONS_HANDOVER | Product team requested business-readable recommended actions.
+2026-06-22 | NOTE051 | AI_PROMPT_READY | Generate support prompts only; no external AI API integration.
+2026-06-08 | NOTE052 | CITY_DELAY_WATCH | Repeated delivery delay patterns observed in Mumbai. Courier: Ecom Express.
+2026-05-19 | NOTE053 | OPERATIONS_HANDOVER | Product team requested business-readable recommended actions.
+2026-05-14 | NOTE054 | DATA_QUALITY | Blank delivery dates and messy statuses should be flagged before reporting.
+2026-05-23 | NOTE055 | CITY_DELAY_WATCH | Repeated delivery delay patterns observed in Gurugram. Courier: Delhivery.
+2026-06-08 | NOTE056 | CITY_DELAY_WATCH | Repeated delivery delay patterns observed in Jaipur. Courier: Shadowfax.
+2026-05-13 | NOTE057 | PAYMENT_RECON | Payment mismatch cases need manual reconciliation.
+2026-05-23 | NOTE058 | PAYMENT_RECON | Payment mismatch cases need manual reconciliation.
+2026-05-08 | NOTE059 | SELLER_ISSUE_CLUSTER | Seller category Fashion requires monitoring for repeated complaints.
+2026-06-14 | NOTE060 | DUPLICATE_ORDER_WATCH | Possible duplicate order/refund pattern reported by customers.
+2026-05-20 | NOTE061 | OPERATIONS_HANDOVER | Product team requested business-readable recommended actions.
+2026-05-21 | NOTE062 | AI_PROMPT_READY | Generate support prompts only; no external AI API integration.
+2026-05-11 | NOTE063 | DUPLICATE_ORDER_WATCH | Possible duplicate order/refund pattern reported by customers.
+2026-05-11 | NOTE064 | SLA_MONITOR | Tickets unresolved beyond target window need priority routing.
+2026-06-02 | NOTE065 | CITY_DELAY_WATCH | Repeated delivery delay patterns observed in Mumbai. Courier: Ecom Express.
+2026-05-31 | NOTE066 | AI_PROMPT_READY | Generate support prompts only; no external AI API integration.
+2026-05-20 | NOTE067 | DUPLICATE_ORDER_WATCH | Possible duplicate order/refund pattern reported by customers.
+2026-06-19 | NOTE068 | SELLER_ISSUE_CLUSTER | Seller category Fashion requires monitoring for repeated complaints.
+2026-05-01 | NOTE069 | CITY_DELAY_WATCH | Repeated delivery delay patterns observed in Indore. Courier: XpressBees.
+2026-05-23 | NOTE070 | OPERATIONS_HANDOVER | Product team requested business-readable recommended actions.
+2026-05-19 | NOTE071 | OPERATIONS_HANDOVER | Product team requested business-readable recommended actions.
+2026-06-20 | NOTE072 | DATA_QUALITY | Blank delivery dates and messy statuses should be flagged before reporting.
+2026-05-31 | NOTE073 | AI_PROMPT_READY | Generate support prompts only; no external AI API integration.
+2026-06-15 | NOTE074 | SELLER_ISSUE_CLUSTER | Seller category Home requires monitoring for repeated complaints.
+2026-06-10 | NOTE075 | CITY_DELAY_WATCH | Repeated delivery delay patterns observed in Indore. Courier: Delhivery.
+2026-06-06 | NOTE076 | SLA_MONITOR | Tickets unresolved beyond target window need priority routing.
+2026-06-19 | NOTE077 | OPERATIONS_HANDOVER | Product team requested business-readable recommended actions.
+2026-05-06 | NOTE078 | SELLER_ISSUE_CLUSTER | Seller category Beauty requires monitoring for repeated complaints.
+2026-05-24 | NOTE079 | PAYMENT_RECON | Payment mismatch cases need manual reconciliation.
+2026-05-16 | NOTE080 | SELLER_ISSUE_CLUSTER | Seller category Appliances requires monitoring for repeated complaints.
+2026-05-27 | NOTE081 | DUPLICATE_ORDER_WATCH | Possible duplicate order/refund pattern reported by customers.
+2026-05-26 | NOTE082 | REFUND_BACKLOG | Refund operations backlog reported for high-value orders above INR 25000.
+2026-06-14 | NOTE083 | OPERATIONS_HANDOVER | Product team requested business-readable recommended actions.
+2026-06-02 | NOTE084 | AI_PROMPT_READY | Generate support prompts only; no external AI API integration.
+2026-06-13 | NOTE085 | CITY_DELAY_WATCH | Repeated delivery delay patterns observed in Delhi. Courier: Shadowfax.
+2026-06-05 | NOTE086 | SELLER_ISSUE_CLUSTER | Seller category Grocery requires monitoring for repeated complaints.
+2026-05-04 | NOTE087 | REFUND_BACKLOG | Refund operations backlog reported for high-value orders above INR 25000.
+2026-05-28 | NOTE088 | REFUND_BACKLOG | Refund operations backlog reported for high-value orders above INR 25000.
+2026-06-05 | NOTE089 | CUSTOMER_ESCALATION | Escalation desk requested merged complaint and ticket view.
+2026-06-18 | NOTE090 | AI_PROMPT_READY | Generate support prompts only; no external AI API integration.
+2026-05-17 | NOTE091 | AI_PROMPT_READY | Generate support prompts only; no external AI API integration.
+2026-06-16 | NOTE092 | DATA_QUALITY | Blank delivery dates and messy statuses should be flagged before reporting.
+2026-05-03 | NOTE093 | CITY_DELAY_WATCH | Repeated delivery delay patterns observed in Kolkata. Courier: Ecom Express.
+2026-05-10 | NOTE094 | CITY_DELAY_WATCH | Repeated delivery delay patterns observed in Kolkata. Courier: BlueDart.
+2026-05-02 | NOTE095 | PAYMENT_RECON | Payment mismatch cases need manual reconciliation.
+2026-06-01 | NOTE096 | CITY_DELAY_WATCH | Repeated delivery delay patterns observed in Kochi. Courier: Delhivery.
+2026-06-02 | NOTE097 | REFUND_BACKLOG | Refund operations backlog reported for high-value orders above INR 25000.
+2026-05-23 | NOTE098 | PAYMENT_RECON | Payment mismatch cases need manual reconciliation.
+2026-06-12 | NOTE099 | DATA_QUALITY | Blank delivery dates and messy statuses should be flagged before reporting.
+2026-06-15 | NOTE100 | CITY_DELAY_WATCH | Repeated delivery delay patterns observed in Jaipur. Courier: BlueDart.
